@@ -9,3 +9,7 @@ var myVar = "Hello, world!";
 ``` C
 char a = "H";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
